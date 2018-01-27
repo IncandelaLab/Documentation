@@ -1,0 +1,187 @@
+Room 5324
+
+
+
+	Module Parts Storage and Module Plating
+
+		Sensor cabinet
+			36" x 24" (0.91 x 0.61 meters) (0.56 m^2)
+
+		Base plate cabinet
+			36" x 24" (0.91 x 0.61 meters) (0.56 m^2)
+
+		Tested PCB cabinet
+			36" x 24" (0.91 x 0.61 meters) (0.56 m^2)
+
+		Assembly tool cabinet
+			36" x 24" (0.91 x 0.61 meters) (0.56 m^2)
+
+		Shipping prep and general purpose workbench
+			30" x 72" (0.76 x 1.83 meters) (1.39 m^2)
+
+		Granite Table
+			24.5" x 36.5" (0.62 x 0.92 meters) (0.58 m^2)
+
+		Tool chest
+			18" x 29.5" (0.46 x 0.75 meters) (0.34 m^2)
+
+
+
+	Module Fabrication
+
+		Gantry Prep Desk (Carrier plates on lower shelf)
+			30.25" x 72" (0.77 x 1.83 meters) (1.4 m^2)
+
+			Computer
+
+		Module parts for weekly build plan; dry run parts (Cabinet)
+			36" x 24" (0.91 x 0.61 meters) (0.56 m^2)
+
+			Notes
+				Has some tubing in the back. Does there need to be accessible space behind this cabinet?
+
+		Glue table
+			60" x 24" (1.5 x 0.61 meters) (0.93 m^2)
+
+			Shelves
+				For syringes, glue, gluing supplies
+
+		Gantry
+			48" x 48" (1.22 x 1.22 meters) (1.49 m^2)
+			Weight (total 825 kg)
+				Lower aluminum slab: 2.5” x 46” x 48” (240 kg)
+				Upper aluminum slab: 2” x 48” x 48” (200 kg)
+				Stand (hollow tubes, steel, assumed wall thickness 3/8”) (150 kg)
+				Gantry (from product specifications) (180 kg)
+				Tooling and plates (40 kg)
+				Vacuum system (guess) (15 kg)
+
+		Gantry rack
+			36" x 24" (0.91 x 0.61 meters) (0.56 m^2)
+
+			Gantry computer
+
+		Module Curing Cabinet
+			36" x 24" (0.91 x 0.61 meters) (0.56 m^2)
+	
+			Notes
+				Needs accessible space to left for vacuum line feedthroughs
+
+		Printer
+
+
+
+	Module Wirebonding
+
+		Granite table with stereoscope
+			36" x 24" (0.91 x 0.61 meters) (0.56 m^2)
+
+			Stereoscope
+
+			Granite table
+
+		Pull Tester and Microscope Computer desk
+			60" x 30" (1.5 x 0.76 meters) (1.2 m^2)
+
+			Pull Tester
+				13" x 22" (0.33 x 0.56 meters) (0.19 m^2)
+				Weight (total 21 kg)
+
+			Microscope computer
+
+		Microscope station
+			34" x 30.5" (0.86 x 0.77 meters) (0.67 m^2)
+
+			Microscope
+
+		Shelf
+
+		Hesse Bondjet BJ820 Wirebonder
+			52.5" x 52.5" (1.3 x 1.3 meters) (1.7 m^2)
+			Weight (total 1350 kg)
+
+			Notes
+				The footprint seems large. Does it include the wirebonder table?
+
+		Wirebonder table
+			42" x 29" (1.1 x 0.7 meters) (0.79 m^2)
+
+		Modules to be bonded and to be repaired (Cabinet)
+			36" x 24" (0.91 x 0.61 meters) (0.56 m^2)
+
+		OGP
+			40" x 53" (1.0 x 1.4 meters) (1.37 m^2)
+			Weight (1050 kg)
+				https://www.machmarket.com/sale/other/other/ogp/avant-zip-600/as13561
+				(only source I could find.)
+
+
+		OGP Table
+		65" x 39" (1.6 x 1.0 meters) (1.63 m^2)
+			Weight (total 50kg)
+				Desk and computer (guess)
+
+			OGP Computer
+
+			OGP Controller
+
+			Notes
+				The desk could be much smaller than it is
+
+
+
+
+
+Room 5318
+
+
+	Module Testing
+
+		Cold box desk
+			48" x 30" (1.22 x 0.91 meters) (0.93 m^2)
+
+			Computer
+
+		Cold box rack
+			32" x 36" (0.81 x 0.91 meters) (0.74 m^2)
+
+		Cold box control rack
+			21" x 22" (0.53 x 0.56 meters) (0.30 m^2)
+
+		Modules for testing (cabinet)
+			36" x 18" (0.91 x 0.46 meters) (0.42 m^2)
+
+		Testing Desks (1, 2, 3)
+			60" x 30" (1.5 x 0.76 meters) (1.2 m^2)
+
+			Clamshells
+
+			Shelves
+
+		Loval Server and Backup rack
+
+		Problem Modules (cabinet)
+			36" x 24" (0.91 x 0.61 meters) (0.56 m^2)
+
+		Encapsulation curing cabinet
+			36" x 24" (0.91 x 0.61 meters) (0.56 m^2)
+
+		Encapsulation desk
+			94" x 36" (2.39 x 0.91 meters) (2.18 m^2)
+
+			Encapsulation gantry
+
+			Notes
+				The desk can be much smaller than this, as we're using it for the cold box, but this space will be used by other groups for encapsulation.
+
+		Rack
+			22.25" x 22.25" (0.56 x 0.56 meters) (0.32 m^2)
+
+			Notes
+				We use this for the cold box setup, but it isn't necessary for encapsulation.
+				Should we remove it from the floorplan?
+
+		Untested PCBs (Cabinet)
+			36" x 24" (0.91 x 0.61 meters) (0.56 m^2)
+
+
