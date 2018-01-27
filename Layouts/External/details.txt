@@ -1,3 +1,38 @@
+Room 5332
+
+	Shipping and receiving
+
+		Storage cabinets
+
+		Shelf
+
+		Desk
+
+
+	Receiving Area and DB Transfer Entry
+
+		Storage cabinet
+
+		Desks
+
+		Shelf
+
+		Trash
+
+		Computer
+			For updating databases when shipments are sent or received
+
+		Gowning area
+			Room for entry and exit of clean room
+
+			Gowning storage
+				Contains hair nets, shoe covers, gloves, and face masks
+				Cubbies for personal storage
+
+			Lab coat rack
+				Add to layout?
+
+
 Room 5324
 
 
@@ -6,21 +41,30 @@ Room 5324
 
 		Sensor cabinet
 			36" x 24" (0.91 x 0.61 meters) (0.56 m^2)
+			Cabinet for storing sensors
 
 		Base plate cabinet
 			36" x 24" (0.91 x 0.61 meters) (0.56 m^2)
+			Cabinet for storing base plates
 
 		Tested PCB cabinet
 			36" x 24" (0.91 x 0.61 meters) (0.56 m^2)
+			Cabinet for storing PCBs that have already been tested
 
 		Assembly tool cabinet
 			36" x 24" (0.91 x 0.61 meters) (0.56 m^2)
+			Cabinet for storing assembly tools
 
 		Shipping prep and general purpose workbench
 			30" x 72" (0.76 x 1.83 meters) (1.39 m^2)
+			Workbench for preparing and packing finished modules
+			Lower shelf space for shipping boxes and carrier plates
 
 		Granite Table
 			24.5" x 36.5" (0.62 x 0.92 meters) (0.58 m^2)
+			
+			Height gauge
+
 
 		Tool chest
 			18" x 29.5" (0.46 x 0.75 meters) (0.34 m^2)
@@ -33,10 +77,12 @@ Room 5324
 			30.25" x 72" (0.77 x 1.83 meters) (1.4 m^2)
 
 			Computer
+				For updating module and part databases
 
 		Module parts for weekly build plan; dry run parts (Cabinet)
 			36" x 24" (0.91 x 0.61 meters) (0.56 m^2)
-
+			Stocked weekly with sensors, base plates, and PCBs
+			Contains dummy parts for dry runs
 			Notes
 				Has some tubing in the back. Does there need to be accessible space behind this cabinet?
 
@@ -46,7 +92,7 @@ Room 5324
 			Shelves
 				For syringes, glue, gluing supplies
 
-		Gantry
+		Gantry system
 			48" x 48" (1.22 x 1.22 meters) (1.49 m^2)
 			Weight (total 825 kg)
 				Lower aluminum slab: 2.5” x 46” x 48” (240 kg)
@@ -56,16 +102,40 @@ Room 5324
 				Tooling and plates (40 kg)
 				Vacuum system (guess) (15 kg)
 
+			Aerotech Gantry AGS10000 0.75 x 0.75 meter
+					Rotational stage and mount to ATS100 - ADRS-100
+					Z axis stage ATS100
+					Other labs should consider a 1m x 1m gantry
+
+			Camera
+
+			Fixture for glue syringe
+
+			Vaccum supply and distribution system on lower shelf
+
+
 		Gantry rack
 			36" x 24" (0.91 x 0.61 meters) (0.56 m^2)
 
 			Gantry computer
+				A3200 Software and Labview software
+
+			Monitor, mouse, keyboard
+			Gantry Joystick
+			UPS
+			Power supply and interface for vacuum system
+			Aerotech A3200 Npaq Drive Rack Gantry Controller
+			EFD Ultimus V High Precision Dispenser (for glueing)
+			Gantry E-stop switch
+			Vacuum gauge
+
 
 		Module Curing Cabinet
 			36" x 24" (0.91 x 0.61 meters) (0.56 m^2)
-	
-			Notes
-				Needs accessible space to left for vacuum line feedthroughs
+			Cabinet for storing carrier plates under vacuum for curing.
+			Vacuum supply manifold on wall next to cabinet.
+			Vacuum line feedthroughs into cabinet for curing.
+
 
 		Printer
 
@@ -77,6 +147,8 @@ Room 5324
 			36" x 24" (0.91 x 0.61 meters) (0.56 m^2)
 
 			Stereoscope
+				Cuda 1-150 fiber optic illuminator
+				Leica StereoZoom 4 stereoscope
 
 			Granite table
 
@@ -86,6 +158,7 @@ Room 5324
 			Pull Tester
 				13" x 22" (0.33 x 0.56 meters) (0.19 m^2)
 				Weight (total 21 kg)
+				Royce 610 Bond Tester
 
 			Microscope computer
 
@@ -93,6 +166,11 @@ Room 5324
 			34" x 30.5" (0.86 x 0.77 meters) (0.67 m^2)
 
 			Microscope
+				X-Y table
+				Nikon Stereoscope
+				Moticam 5 Digital Microscope Camera
+				Mitutoyo Digital Readout
+
 
 		Shelf
 
@@ -105,21 +183,29 @@ Room 5324
 
 		Wirebonder table
 			42" x 29" (1.1 x 0.7 meters) (0.79 m^2)
+			Table that serves as workspace for preparing modules for wire bonding
+			Shelf space for bonder tooling under table
+
 
 		Modules to be bonded and to be repaired (Cabinet)
 			36" x 24" (0.91 x 0.61 meters) (0.56 m^2)
+			Cabinet for module storage. Needs module storage racks.
+			Stores modules that need to be wire bonded, and modules that have been pulled and need repair.
+
 
 		OGP
 			40" x 53" (1.0 x 1.4 meters) (1.37 m^2)
 			Weight (1050 kg)
 				https://www.machmarket.com/sale/other/other/ogp/avant-zip-600/as13561
 				(only source I could find.)
+			Avant 600 Zip Optical Gaging Table
+			Made by Optical Gaging Products Inc.
+			Note: model obsolete. Other labs should acquire newer version.
 
 
 		OGP Table
 		65" x 39" (1.6 x 1.0 meters) (1.63 m^2)
-			Weight (total 50kg)
-				Desk and computer (guess)
+			Weight (total 50kg) (includes desk, computer, and controller)
 
 			OGP Computer
 
@@ -141,15 +227,18 @@ Room 5318
 			48" x 30" (1.22 x 0.91 meters) (0.93 m^2)
 
 			Computer
+				For controlling colr box and updating test database
 
 		Cold box rack
 			32" x 36" (0.81 x 0.91 meters) (0.74 m^2)
 
 		Cold box control rack
 			21" x 22" (0.53 x 0.56 meters) (0.30 m^2)
+			Houses cold box power supply and controller
 
 		Modules for testing (cabinet)
 			36" x 18" (0.91 x 0.46 meters) (0.42 m^2)
+			Cabinet for storing modules to be tested
 
 		Testing Desks (1, 2, 3)
 			60" x 30" (1.5 x 0.76 meters) (1.2 m^2)
@@ -159,17 +248,22 @@ Room 5318
 			Shelves
 
 		Loval Server and Backup rack
+			Rack containing local server and backup computers
 
 		Problem Modules (cabinet)
 			36" x 24" (0.91 x 0.61 meters) (0.56 m^2)
+			Cabinet for storing problematic modules
 
 		Encapsulation curing cabinet
 			36" x 24" (0.91 x 0.61 meters) (0.56 m^2)
+			Cabinet for curing modules that have been encapsulated
 
 		Encapsulation desk
 			94" x 36" (2.39 x 0.91 meters) (2.18 m^2)
 
 			Encapsulation gantry
+				What model do we have?
+				Other labs would likely get a newer model.
 
 			Notes
 				The desk can be much smaller than this, as we're using it for the cold box, but this space will be used by other groups for encapsulation.
@@ -183,5 +277,11 @@ Room 5318
 
 		Untested PCBs (Cabinet)
 			36" x 24" (0.91 x 0.61 meters) (0.56 m^2)
+			Cabinet for storing new PCBs that haven't been tested
 
 
+External equipment
+
+	Air drier
+
+	Chiller
