@@ -3,6 +3,7 @@ Room 5332
 	Shipping and receiving
 
 		Storage cabinets
+			36" x 24" (0.91 x 0.61 meters) (0.56 m^2)
 
 		Shelf
 
@@ -12,6 +13,7 @@ Room 5332
 	Receiving Area and DB Transfer Entry
 
 		Storage cabinet
+			36" x 24" (0.91 x 0.61 meters) (0.56 m^2)
 
 		Desks
 
@@ -30,7 +32,6 @@ Room 5332
 				Cubbies for personal storage
 
 			Lab coat rack
-				Add to layout?
 
 
 Room 5324
@@ -179,9 +180,6 @@ Room 5324
 			52.5" x 52.5" (1.3 x 1.3 meters) (1.7 m^2)
 			Weight (total 1350 kg)
 
-			Notes
-				The footprint seems large. Does it include the wirebonder table?
-
 		Wirebonder table
 			42" x 29" (1.1 x 0.7 meters) (0.79 m^2)
 			Table that serves as workspace for preparing modules for wire bonding
@@ -198,11 +196,10 @@ Room 5324
 		OGP
 			40" x 53" (1.0 x 1.4 meters) (1.37 m^2)
 			Weight (1050 kg)
-				https://www.machmarket.com/sale/other/other/ogp/avant-zip-600/as13561
-				(only source I could find.)
 			Avant 600 Zip Optical Gaging Table
 			Made by Optical Gaging Products Inc.
-			Note: model obsolete. Other labs should acquire newer version.
+			
+			This model is obsolete. Other labs should acquire newer version.
 
 
 		OGP Table
@@ -213,8 +210,6 @@ Room 5324
 
 			OGP Controller
 
-			Notes
-				The desk could be much smaller than it is
 
 
 
@@ -229,7 +224,7 @@ Room 5318
 			48" x 30" (1.22 x 0.91 meters) (0.93 m^2)
 
 			Computer
-				For controlling colr box and updating test database
+				For controlling cold box and updating test database
 
 		Cold box rack
 			32" x 36" (0.81 x 0.91 meters) (0.74 m^2)
@@ -247,6 +242,7 @@ Room 5318
 			60" x 30" (1.5 x 0.76 meters) (1.2 m^2)
 
 			Clamshells
+				Single-module test stands
 
 			Shelves
 
@@ -267,18 +263,10 @@ Room 5318
 			94" x 36" (2.39 x 0.91 meters) (2.18 m^2)
 
 			Encapsulation gantry
-				What model do we have?
-				Other labs would likely get a newer model.
+				Fisnar F4000N.1 Series Benchtop Robots
 
 			Notes
 				The desk can be much smaller than this, as we're using it for the cold box, but this space will be used by other groups for encapsulation.
-
-		Rack
-			22.25" x 22.25" (0.56 x 0.56 meters) (0.32 m^2)
-
-			Notes
-				We use this for the cold box setup, but it isn't necessary for encapsulation.
-				Should we remove it from the floorplan?
 
 		Untested PCBs (Cabinet)
 			36" x 24" (0.91 x 0.61 meters) (0.56 m^2)
