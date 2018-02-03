@@ -42,6 +42,7 @@ Room 5324
 		Sensor cabinet
 			36" x 24" (0.91 x 0.61 meters) (0.56 m^2)
 			Cabinet for storing sensors
+			This cabinet should be sealed and attached to dry air supply
 
 		Base plate cabinet
 			36" x 24" (0.91 x 0.61 meters) (0.56 m^2)
@@ -83,8 +84,7 @@ Room 5324
 			36" x 24" (0.91 x 0.61 meters) (0.56 m^2)
 			Stocked weekly with sensors, base plates, and PCBs
 			Contains dummy parts for dry runs
-			Notes
-				Has some tubing in the back. Does there need to be accessible space behind this cabinet?
+			This cabinet should be sealed and attached to dry air supply
 
 		Glue table
 			60" x 24" (1.5 x 0.61 meters) (0.93 m^2)
@@ -135,6 +135,7 @@ Room 5324
 			Cabinet for storing carrier plates under vacuum for curing.
 			Vacuum supply manifold on wall next to cabinet.
 			Vacuum line feedthroughs into cabinet for curing.
+			This cabinet should be sealed and attached to dry air supply
 
 
 		Printer
@@ -191,6 +192,7 @@ Room 5324
 			36" x 24" (0.91 x 0.61 meters) (0.56 m^2)
 			Cabinet for module storage. Needs module storage racks.
 			Stores modules that need to be wire bonded, and modules that have been pulled and need repair.
+			This cabinet should be sealed and attached to dry air supply
 
 
 		OGP
@@ -239,6 +241,7 @@ Room 5318
 		Modules for testing (cabinet)
 			36" x 18" (0.91 x 0.46 meters) (0.42 m^2)
 			Cabinet for storing modules to be tested
+			This cabinet should be sealed and attached to dry air supply
 
 		Testing Desks (1, 2, 3)
 			60" x 30" (1.5 x 0.76 meters) (1.2 m^2)
@@ -253,10 +256,12 @@ Room 5318
 		Problem Modules (cabinet)
 			36" x 24" (0.91 x 0.61 meters) (0.56 m^2)
 			Cabinet for storing problematic modules
+			This cabinet should be sealed and attached to dry air supply
 
 		Encapsulation curing cabinet
 			36" x 24" (0.91 x 0.61 meters) (0.56 m^2)
 			Cabinet for curing modules that have been encapsulated
+			This cabinet should be sealed and attached to dry air supply
 
 		Encapsulation desk
 			94" x 36" (2.39 x 0.91 meters) (2.18 m^2)
